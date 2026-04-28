@@ -1,0 +1,23 @@
+h1{
+    font-size: 45px;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    
+a{
+  text-decoration: none;
+}
+.h1_no_deco{
+    text-align: left;
+    border-bottom: none;
+    padding: 0px;
+}
+ol{
+    border-right: 1px solid gray;
+    width: 100px;
+    margin: 0px;
+    padding: 20px;
+
+}
+body{
+    margin: 0px;
+}
